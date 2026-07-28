@@ -3,4 +3,5 @@ Hello World !!!
 # Steps to build Spring project
 1.Build architecture
 2.Auth services
+3.Deployment 
 ...
